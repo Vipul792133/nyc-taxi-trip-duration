@@ -1,0 +1,1 @@
+["passenger_count", "trip_distance", "PULocationID", "DOLocationID", "RatecodeID", "store_and_fwd_flag", "pickup_hour", "pickup_dayofweek", "pickup_month", "is_weekend"]
